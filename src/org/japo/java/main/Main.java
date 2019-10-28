@@ -42,7 +42,6 @@ public class Main {
         } finally {
             //borrar buffer
             SCN.nextLine();
-
         }
     }
 }
